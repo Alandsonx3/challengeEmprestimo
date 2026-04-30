@@ -1,0 +1,14 @@
+C:\dev\challengeEmprestimo\bin\Debug\net10.0\challengeEmprestimo.exe
+C:\dev\challengeEmprestimo\bin\Debug\net10.0\challengeEmprestimo.deps.json
+C:\dev\challengeEmprestimo\bin\Debug\net10.0\challengeEmprestimo.runtimeconfig.json
+C:\dev\challengeEmprestimo\bin\Debug\net10.0\challengeEmprestimo.dll
+C:\dev\challengeEmprestimo\bin\Debug\net10.0\challengeEmprestimo.pdb
+C:\dev\challengeEmprestimo\obj\Debug\net10.0\challengeEmprestimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\challengeEmprestimo\obj\Debug\net10.0\challengeEmprestimo.AssemblyInfoInputs.cache
+C:\dev\challengeEmprestimo\obj\Debug\net10.0\challengeEmprestimo.AssemblyInfo.cs
+C:\dev\challengeEmprestimo\obj\Debug\net10.0\challengeEmprestimo.csproj.CoreCompileInputs.cache
+C:\dev\challengeEmprestimo\obj\Debug\net10.0\challengeEmprestimo.dll
+C:\dev\challengeEmprestimo\obj\Debug\net10.0\refint\challengeEmprestimo.dll
+C:\dev\challengeEmprestimo\obj\Debug\net10.0\challengeEmprestimo.pdb
+C:\dev\challengeEmprestimo\obj\Debug\net10.0\challengeEmprestimo.genruntimeconfig.cache
+C:\dev\challengeEmprestimo\obj\Debug\net10.0\ref\challengeEmprestimo.dll
